@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.spec
+
+# Build output
+build/
+dist/
+*.zip
+*.7z
+*.rar
+*.exe
+
+# Local environment
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs/temp
+*.log
+*.tmp
